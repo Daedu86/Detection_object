@@ -33,7 +33,7 @@ python main.py
 
 - `main.py` — Application source code
 - `yolov8n.pt` — YOLOv8 Nano model (download separately from Ultralytics)
-- `bb3c3f40-09f9-4d0f-aa14-936c1aaa86ea.png` — Example output image
+- `example.png` — Example output image
 
 ## 🪟 Platform Support
 
