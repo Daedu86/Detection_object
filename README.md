@@ -5,7 +5,7 @@ This Python project creates a transparent and draggable window that captures par
 
 ## 🖼️ Preview
 
-![Detection Example](bb3c3f40-09f9-4d0f-aa14-936c1aaa86ea.png)
+![Detection Example](example.png)
 
 ## 🚀 Features
 
